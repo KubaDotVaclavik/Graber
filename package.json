@@ -1,0 +1,17 @@
+{
+  "name": "graber",
+  "version": "0.0.0",
+  "description": "graber",
+  "main": "app.js",
+  "author": {
+    "name": "jakub.vaclavik",
+    "email": ""
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "cheerio": "^0.20.0",
+    "fetch": "^1.1.0",
+    "jsonfile": "^2.3.1",
+    "sync-request": "^3.0.1"
+  }
+}
